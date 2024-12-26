@@ -55,7 +55,7 @@ For any inquiries or feedback, please contact the project maintainers:<br><br>
 
 Sriram.S
 GitHub: sriram230<br>
-Email: sriramsri230@gmail.com<br><br>
+Email: sriramsri1030@gmail.com<br><br>
 
 <h4>Acknowledgments</h4>
 Special thanks to the Indian Meteorological Department for providing valuable data.<br>
